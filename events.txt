@@ -1,0 +1,7 @@
+Freshers,2025-04-25,Social,Physical,Ruth First
+IBM Class,2025-05-15,Workshop,Online,TEAMS
+Amazon,2025-04-25,Seminar,Physical,Gymnasuim
+Amazon,2025-04-25,Expo,Physical,Gymnasuim
+Freshers2025,2025-09-25,Social,Physical,Gymnasuim
+CareerExpo,2025-05-17,Expo,Physical,Gymnasuim
+CareerGuidance,2025-07-21,Workshop,Online,Skype
