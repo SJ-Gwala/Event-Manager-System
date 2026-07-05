@@ -13,6 +13,13 @@ A Java Swing desktop application that allows users to manage online and physical
 - Polymorphism
 - File Handling
 
+## Screenshots
+- Add event 
+- Edit event
+- Delete event
+- Search event
+  
+
 ## Technologies
 
 - Java
@@ -28,5 +35,4 @@ Included in repository.
 
 - Database integration
 - Login system
-- Edit/Delete events
 - Better UI
